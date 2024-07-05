@@ -1,2 +1,2 @@
 # ztrie
-a trie
+A trie implementation in Zig
